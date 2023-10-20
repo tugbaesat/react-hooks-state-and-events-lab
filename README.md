@@ -6,7 +6,7 @@ This is a grocery list app. There is a button for toggling between dark mode and
 
 ## Live Demo of the Project: 📹
 
-[Shopping List App](https://tasks-app-tugbaesat.vercel.app)
+[Shopping List App](https://react-hooks-state-and-events-lab.vercel.app)
 
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 - [React](https://react.dev/)
