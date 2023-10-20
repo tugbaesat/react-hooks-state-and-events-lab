@@ -14,7 +14,7 @@ This is a grocery list app. There is a button for toggling between dark mode and
 ## Screenshots: 📷
 
 ### Main Page
-![image](https://github.com/tugbaesat/react-hooks-state-events-mini-project/assets/114342008/ce4e7def-7225-474f-923f-875e0d359750)
+![image](https://github.com/tugbaesat/react-hooks-state-and-events-lab/assets/114342008/b299e0e3-3a1b-48be-bb18-c40ea36115e4)
 
 
 ## Authors: 💻
